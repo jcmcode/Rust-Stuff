@@ -1,2 +1,5 @@
 # Rust-Stuff
-Rust seems interesting and I want to learn it.
+
+
+
+Maturin for packaging tools for use in python
